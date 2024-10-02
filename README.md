@@ -8,5 +8,7 @@
 - Welcome to my GitHub profile! Here, you'll find a collection of repositories showcasing my projects and contributions across various domains.
 - . Let me walk you through what you'll discover:
 1.SQL Repository
+2.Selenium Java Practice.
+3.Postman API-Deep dive into documention part of API ,design part of API,Different types of APIs. 
 
 
