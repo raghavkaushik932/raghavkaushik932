@@ -9,6 +9,7 @@
 - . Let me walk you through what you'll discover:
 1.SQL Repository
 2.Selenium Java Practice.
-3.Postman API-Deep dive into documention part of API ,design part of API,Different types of APIs. 
+3.Postman API-Deep dive into documention part of API ,Design part of API,Different types of APIs.
+4.Agile and Scrum in QA
 
 
